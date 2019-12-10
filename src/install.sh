@@ -1,0 +1,1 @@
+./pucampus.sh install
